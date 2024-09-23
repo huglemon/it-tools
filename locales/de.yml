@@ -14,28 +14,28 @@ home:
   toggleMenu: Menü umschalten
   home: Startseite
   uiLib: UI-Bibliothek
-  support: Unterstütze die Entwicklung von IT-Tools
+  support: Unterstütze die Entwicklung von Indie Hackers Tools
   buyMeACoffee: Kauf mir einen Kaffee
   follow:
-    title: Magst du IT-Tools?
+    title: Magst du Indie Hackers Tools?
     p1: Gib uns einen Stern auf
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Indie Hackers Tools GitHub-Repository
     p2: oder folge uns auf
-    twitterAccount: IT-Tools Twitter-Konto
+    twitterAccount: Indie Hackers Tools Twitter-Konto
     thankYou: Vielen Dank!
   nav:
     github: GitHub-Repository
-    githubRepository: IT-Tools GitHub-Repository
+    githubRepository: Indie Hackers Tools GitHub-Repository
     twitter: Twitter-Konto
-    twitterAccount: IT-Tools Twitter-Konto
-    about: Über IT-Tools
+    twitterAccount: Indie Hackers Tools Twitter-Konto
+    about: Über Indie Hackers Tools
     aboutLabel: Über
     darkMode: Dunkelmodus
     lightMode: Hellmodus
     mode: Wechseln zwischen dunklem/hellem Modus
 about:
   content: >
-    # Über IT-Tools
+    # Über Indie Hackers Tools
 
     Diese wunderbare Website, erstellt mit ❤ von [Corentin
     Thomasset](https://github.com/CorentinTh), sammelt nützliche Tools für
@@ -44,7 +44,7 @@ about:
     ebenfalls nützlich finden könnten, und vergiss nicht, sie in deiner
     Lesezeichenleiste zu speichern!
 
-    IT-Tools ist Open Source (unter der MIT-Lizenz) und kostenlos und wird es
+    Indie Hackers Tools ist Open Source (unter der MIT-Lizenz) und kostenlos und wird es
     immer sein, aber es kostet mich Geld, die Website zu hosten und den
     Domainnamen zu erneuern. Wenn du meine Arbeit unterstützen möchtest und mich
     ermutigen möchtest, mehr Tools hinzuzufügen, überlege bitte, mich durch
@@ -52,7 +52,7 @@ about:
 
     ## Technologien
 
-    IT-Tools wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek
+    Indie Hackers Tools wurde mit Vue.js (Vue 3) und der Naive UI-Komponentenbibliothek
     erstellt und wird von Vercel gehostet und kontinuierlich bereitgestellt. In
     einigen Tools werden Drittanbieter-Open-Source-Bibliotheken verwendet. Du
     findest die vollständige Liste in der

@@ -7,30 +7,30 @@ home:
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
-  support: 'Apoyar el desarrollo de IT-Tools'
+  support: 'Apoyar el desarrollo de Indie Hackers Tools'
   buyMeACoffee: 'Buy me a coffee'
   follow:
     title: 'Te gustan las it-tools?'
     p1: 'Danos una estrella en'
-    githubRepository: 'Repositorio de IT-Tools en GitHub'
+    githubRepository: 'Repositorio de Indie Hackers Tools en GitHub'
     p2: 'o síguenos en'
-    twitterAccount: 'Cuenta de twitter de IT-Tools'
+    twitterAccount: 'Cuenta de twitter de Indie Hackers Tools'
     thankYou: 'Muchas gracias!'
   nav:
     github: 'Repositorio en github'
-    githubRepository: 'IT-Tools GitHub repository'
+    githubRepository: 'Indie Hackers Tools GitHub repository'
     twitter: 'Cuenta de Twitter'
     twitterAccount: 'Cuenta de twitter de IT Tools'
-    about: 'Sobre  IT-Tools'
+    about: 'Sobre  Indie Hackers Tools'
     aboutLabel: 'Sobre'
     darkMode: 'Modo obscuro'
     lightMode: 'Modo claro'
     mode: 'Alternar modo oscuro/claro'
 about:
   content: >
-    # Sobre IT-Tools
+    # Sobre Indie Hackers Tools
 
-    Este maravilloso sitio web, hecho con ❤ por [Corentin Thomasset](https://github.com/CorentinTh) , agrega herramientas útiles para desarrolladores y personas que trabajan en IT. Si lo encuentra útil, no dude en compartirlo con las personas que crea que también pueden encontrarlo útil y ¡no olvide marcarlo como favorito en su barra de accesos directos!
+    Este maravilloso sitio web, hecho con ❤ por [huglemon](https://github.com/huglemon)  fork from [Corentin Thomasset](https://github.com/CorentinTh) , agrega herramientas útiles para desarrolladores y personas que trabajan en IT. Si lo encuentra útil, no dude en compartirlo con las personas que crea que también pueden encontrarlo útil y ¡no olvide marcarlo como favorito en su barra de accesos directos!
 
     IT Tools es de código abierto (under the MIT license) y gratis, y siempre lo será, pero me cuesta dinero alojar y renovar el nombre de dominio. Si desea apoyar mi trabajo y animarme a agregar más herramientas, considere apoyarme a través de[sponsoring me](https://www.buymeacoffee.com/cthmsst).
 

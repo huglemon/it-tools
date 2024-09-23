@@ -12,25 +12,25 @@ home:
   follow:
     title: 'Bạn thích IT-tools?'
     p1: 'Hãy cho chúng tôi một ngôi sao trên'
-    githubRepository: 'Kho GitHub IT-Tools'
+    githubRepository: 'Kho GitHub Indie Hackers Tools'
     p2: 'hoặc theo dõi chúng tôi trên'
-    twitterAccount: 'Tài khoản Twitter IT-Tools'
+    twitterAccount: 'Tài khoản Twitter Indie Hackers Tools'
     thankYou: 'Cảm ơn bạn!'
   nav:
     github: 'Kho GitHub'
-    githubRepository: 'Kho GitHub IT-Tools'
+    githubRepository: 'Kho GitHub Indie Hackers Tools'
     twitter: 'Tài khoản Twitter'
     twitterAccount: 'Tài khoản Twitter IT Tools'
-    about: 'Về IT-Tools'
+    about: 'Về Indie Hackers Tools'
     aboutLabel: 'Giới thiệu'
     darkMode: 'Chế độ tối'
     lightMode: 'Chế độ sáng'
     mode: 'Chuyển đổi chế độ tối/sáng'
 about:
   content: >
-    # Về IT-Tools
+    # Về Indie Hackers Tools
 
-    Website tuyệt vời này, được tạo ra bằng ❤ bởi [Corentin Thomasset](https://github.com/CorentinTh), tổng hợp các công cụ hữu ích cho nhà phát triển và những người làm việc trong lĩnh vực IT. Nếu bạn thấy nó hữu ích, xin đừng ngần ngại chia sẻ cho những người mà bạn nghĩ sẽ thấy nó hữu ích và đừng quên đánh dấu nó trong thanh lối tắt của bạn!
+    Website tuyệt vời này, được tạo ra bằng ❤ bởi [huglemon](https://github.com/huglemon)  fork from [Corentin Thomasset](https://github.com/CorentinTh), tổng hợp các công cụ hữu ích cho nhà phát triển và những người làm việc trong lĩnh vực IT. Nếu bạn thấy nó hữu ích, xin đừng ngần ngại chia sẻ cho những người mà bạn nghĩ sẽ thấy nó hữu ích và đừng quên đánh dấu nó trong thanh lối tắt của bạn!
 
     IT Tools là mã nguồn mở (dưới giấy phép MIT) và miễn phí, và sẽ luôn như vậy, nhưng tôi phải trả tiền để lưu trữ và gia hạn tên miền. Nếu bạn muốn hỗ trợ công việc của tôi, và khích lệ tôi thêm nhiều công cụ hơn, hãy xem xét hỗ trợ bằng cách [tài trợ cho tôi](https://www.buymeacoffee.com/cthmsst).
 
